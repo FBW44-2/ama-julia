@@ -1,6 +1,6 @@
 # Julia's Ask Me Anything
 
-If you have any questions for me, you can submit them here.
+If you have any questions for me, you can ask them here!
 
 No matter if it's questions about me, my hometown or my dog. Anything will be answered. 
 
